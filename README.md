@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying Computer Science at <a href="https://unisagrado.edu.br" target="_blank">Unisagrado</a>
-- 🌱 I’m currently learning Native Android and Flutter
+- 🌱 I’m currently learning a lot of things!
 
 - My Contacts:
 <div> 
