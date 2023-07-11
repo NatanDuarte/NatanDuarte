@@ -21,15 +21,15 @@
 <div align="center"> 
   <a href = "mailto:natanprocopio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/natan-duarte-b497a2180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+<div align="center"> 
  <a href="[https://medium.com/@skydoves](https://medium.com/@natanduartedev)"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
 </div>
 
-<div>
+<p align="center">
+<div align="center">
   <a href="https://github.com/NatanDuarte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanDuarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanDuarte&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
-
-<p align="center">
-  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 </p>
