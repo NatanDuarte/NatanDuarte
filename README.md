@@ -21,7 +21,7 @@
 - My Contacts:
 
 <div align="center"> 
- <a href="[https://medium.com/@natanduartedev](https://medium.com/@natanduartedev)"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
+ <a href="https://medium.com/@natanduartedev"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
 </div>
 
 <div align="center"> 
