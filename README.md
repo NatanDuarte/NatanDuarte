@@ -1,5 +1,3 @@
-# Hi there, I'm Natan! 👋
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/59575502/127427976-be2bc801-ad71-4480-bda4-a6f64926cb7b.png" alt="linux" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/59575502/127427981-bfaa39a1-bce1-4f63-85c4-f61f14f39f46.png" alt="windows" width="25" height="25" />
@@ -14,14 +12,17 @@
 <img src="https://user-images.githubusercontent.com/59575502/127427342-0ff4c732-b5dd-4f67-b4d3-e6cc3d9d7f72.png" alt="android" width="25" height="25" />
 </p>
 
-- 🔭 I’m studying Computer Science (8/8)!
-- 🌱 I’m currently learning Kotlin and Android!
+# Welcome to my github profile 👋
+
+- 🔭 I’m studying Computer Science (8/8)
+- 🌱 I’m currently learning Kotlin and Android, while try to inprove my knolodge in architecture and clean code as well
 
 - My Contacts:
-<div align="center"> 
+<div> 
   <a href = "mailto:natanprocopio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/natan-duarte-b497a2180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
 <div align="center"> 
  <a href="[https://medium.com/@skydoves](https://medium.com/@natanduartedev)"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
 </div>
