@@ -16,15 +16,17 @@
 
 - 🔭 I’m studying Computer Science (8/8)
 - 🌱 I’m currently learning Kotlin and Android, while try to inprove my knolodge in architecture and clean code as well
+- 🗝️ Keywords: Backend, Integration, API, TDD, Mobile, Development
 
-<div> 
 - My Contacts:
-  <a href = "mailto:natanprocopio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/natan-duarte-b497a2180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 <div align="center"> 
  <a href="[https://medium.com/@skydoves](https://medium.com/@natanduartedev)"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
+</div>
+
+<div align="center"> 
+  <a href = "mailto:natanprocopio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/natan-duarte-b497a2180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <p align="center">
