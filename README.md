@@ -15,8 +15,8 @@
 # Welcome to my github profile 👋
 
 - 🔭 I’m studying Computer Science (8/8)
-- 🌱 I’m currently learning Kotlin and Android, while try to inprove my knolodge in architecture and clean code as well
-- 🗝️ Keywords: Backend, Integration, API, TDD, Mobile, Development
+- 🌱 I’m currently studying Python and NodeJS, while try to inprove my knolodge in code architecture and clean code as well
+- 🗝️ Keywords: Backend, Integration, API, Development
 
 - My Contacts:
 
