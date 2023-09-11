@@ -14,8 +14,8 @@
 
 # Welcome to my github profile 👋
 
-- 🔭 I’m studying Computer Science (8/8)
-- 🌱 I’m currently studying Python and NodeJS, while try to inprove my knolodge in code architecture and clean code as well
+- 🔭 I’m Natan, Computer Science Student
+- 🌱 I’m trying to improve my code quality
 - 🗝️ Keywords: Backend, Integration, API, Development
 
 - My Contacts:
@@ -32,7 +32,7 @@
 <p align="center">
 <div align="center">
   <a href="https://github.com/NatanDuarte">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanDuarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanDuarte&layout=compact&langs_count=7&theme=dracula"/> -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanDuarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanDuarte&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
 </p>
