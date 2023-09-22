@@ -20,9 +20,7 @@
 
 - My Contacts:
 
-<div align="center"> 
- <a href="https://medium.com/@natanduartedev"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
-</div>
+<a href="https://medium.com/@natanduartedev"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
 
 <div align="center"> 
   <a href = "mailto:natanprocopio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -33,6 +31,6 @@
 <div align="center">
   <a href="https://github.com/NatanDuarte">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanDuarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanDuarte&layout=compact&langs_count=7&theme=dracula"/> 
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanDuarte&layout=compact&langs_count=7&theme=dracula"/> -->
 </div>
 </p>
