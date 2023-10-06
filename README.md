@@ -15,8 +15,7 @@
 # Welcome to my github profile 👋
 
 - 🔭 I’m Natan, Computer Science Student
-- 🌱 I’m trying to improve my code quality
-- 🗝️ Keywords: Backend, Integration, API, Development
+- 🌱 I’m trying to graduate
 
 - My Contacts:
 
