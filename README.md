@@ -24,6 +24,8 @@ Minha experiência inclui projetos envolvendo o desenvolvimento de web crawlers,
 - 📫 Em breve estarei escrevendo na [Medium](https://medium.com/@natanduartedev)
 </details>
 
+---
+
 # Hello, I'm Natan
 
 Computer Scientist. Programmer since 2018, I'm an organized person with multiple skills. I like to learn and to teach, build prototypes and concept proofs.
@@ -32,6 +34,8 @@ My experience includes building web crawlers, RPA's, REST API's using Java and s
 
 - 🌱 I’m currently learning about SQL and generative algorithms
 - 📫 I'll be writing on [Medium](https://medium.com/@natanduartedev) soon!
+
+---
 
 <div>
   <table style="margin: 0 auto;" align="center">
