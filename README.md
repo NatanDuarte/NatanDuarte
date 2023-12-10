@@ -20,8 +20,8 @@ Cientista da Computação. Programador desde 2018, sou organizado e tenho conhec
 
 Minha experiência inclui projetos envolvendo o desenvolvimento de web crawlers, RPA’s (Robotic Process Automation) com Selenium, API’s REST com Java e Spring Boot, manipulação de SQL, construção de coleções no Postman e trabalhar em ambientes Linux.
 
-- 🌱 Atualmente estou melhorando meu SQL e aprendendo sobre modelos generativos
-- 📫 Em breve estarei escrevendo na [Medium](https://medium.com/@natanduartedev)
+- 🌱 Atualmente aprendendo sobre análise de dados com foco em aprendizado de máquina e melhorando meus conhecimentos em SQL.
+- 📫 Em breve estarei escrevendo na [Medium](https://medium.com/@natanduartedev) em breve!
 </details>
 
 ---
@@ -32,7 +32,7 @@ Computer Scientist. Programmer since 2018, I'm an organized person with multiple
 
 My experience includes building web crawlers, RPA's, REST API's using Java and spring boot, manipulating SQL queries, building and maintaining Postman collections and working on Linux environments.
 
-- 🌱 I’m currently learning about SQL and generative algorithms
+- 🌱 I’m currently learning data analysis for machine learning and improving my SQL knowledge.
 - 📫 I'll be writing on [Medium](https://medium.com/@natanduartedev) soon!
 
 ---
