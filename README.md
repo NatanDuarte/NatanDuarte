@@ -11,41 +11,10 @@
   <img alt="Jupyter" height="25" width="25" src = "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
 </p>
 
-<details>
-    <summary>🇧🇷 Portuguese speakers click here! 🇧🇷</summary>
-
-# Ola! Meu nome é Natan
-
-Cientista da Computação. Programador desde 2018, sou organizado e tenho conhecimentos variados.
-Gosto de aprender e ensinar, construir protótipos e provas de conceito. Atualmente busco transição de carreira
-para Ciência de Dados.
-
-Minha experiência inclui projetos envolvendo o desenvolvimento de automações e API’s REST com
-Java, Python e JavaScript, além da manipulação de SQL. Experiência com git, docker e familiaridade com
-ambientes Linux. Também tenho bons conhecimentos em estatística básica, bibliotecas de manipulação de
-dados como numpy, pandas, opencv, visualização de dados com matplotlib, e frameworks de machine learning
-como Scikit-learn e Tensorflow/Tensorflow-lite.
-
-- 🌱 Atualmente aprendendo sobre análise de dados com foco em aprendizado de máquina e melhorando meus conhecimentos em SQL.
-- 📫 Confira meus textos na [Medium](https://medium.com/@natanduartedev)
-</details>
-
----
 
 # Hello, I'm Natan
 
-Computer Scientist. Programmer since 2018. I’m an organized person with varied skills. I love to
-learn and to teach, to build projects and concept proofs. Currently, I'm interested in pivoting my career
-towards Data Analysis and Data Science.
-
-My experience includes projects building automations and REST APIs with Python and Java.
-Manipulating and optimizing SQL queries. Deploying applications using Docker and code versioning using
-git (github/bitbucket). Comfortable working with Linux systems. Good statistical knowledge and data
-manipulation libraries like pandas, matplotlib, opencv and also machine learning frameworks like
-Tensorflow, Tensorflow-lite and Scikit-learn.
-
-- 🌱 I’m currently learning data analysis for machine learning and improving my SQL knowledge.
-- 📫 Check it out my [Medium](https://medium.com/@natanduartedev) posts!
+Computer Scientist.
 
 ---
 
