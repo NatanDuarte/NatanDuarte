@@ -1,3 +1,5 @@
+---
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/59575502/127427976-be2bc801-ad71-4480-bda4-a6f64926cb7b.png" alt="linux" width="25" height="25" />
   <img src="https://user-images.githubusercontent.com/59575502/127427981-bfaa39a1-bce1-4f63-85c4-f61f14f39f46.png" alt="windows" width="25" height="25" />
@@ -11,12 +13,13 @@
   <img alt="Jupyter" height="25" width="25" src = "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
 </p>
 
-
-# Hello, I'm Natan
-
-Computer Scientist.
-
 ---
+
+# Computer Scientist
+
+## Interests
+
+Data Science | Synthetic Data Generation | Machine Learning | Computer Vision | 3D Modeling | Computer Graphics
 
 <div>
   <table style="margin: 0 auto;" align="center">
